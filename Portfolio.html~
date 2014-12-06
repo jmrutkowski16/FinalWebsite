@@ -1,0 +1,65 @@
+<!Doctype HTML>
+<html>
+<head>
+<title>Jessica Rutkowski's Resume</title>
+<meta charset="utf-8" />
+<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+
+<style>
+
+#Title {
+	font-size: 4em;
+	font-family: 'Pacifico', cursive;
+}
+
+h2 {
+	font-family: 'Pacifico', cursive;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	margin-left: 4em;
+}
+
+#CourseWork {
+	border-radius:.5em;
+	width: 35%;
+	height: 15em;
+	padding-left: 1em;
+	padding-bottom: 1em;
+	background-color: #FBEFF4;
+	float: left;
+	margin-right: .5em;
+}
+
+#Internships {
+		border-radius:.5em;
+	width: 35%;
+	height: 15em;
+	padding-left: 1em;
+	padding-bottom: 1em;
+	background-color: #A6BEB5;
+	float: left;
+}
+
+</style>
+</head>
+
+
+<body>
+
+<section id="Title">
+	Portfolio
+</section>
+
+<section id="CourseWork">
+	<h2>Course Work</h2>
+</section>
+
+<section id="Internships">
+	<h2>Internship Work</h2>
+</section>
+
+</body>
+</html>

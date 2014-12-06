@@ -1,0 +1,72 @@
+<!Doctype HTML>
+<html>
+<head>
+<title>Contact Info</title>
+<meta charset="utf-8" />
+<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+
+<style>
+body {
+	margin-left: 20em;
+	font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+	font-family: 'Pacifico', cursive;
+}
+	
+
+#Title {
+	font-size: 4em;
+	font-family: 'Pacifico', cursive;
+}
+
+#Email {
+	border-radius:.5em;
+	width: 25%;
+	height: 15em;
+	padding-left: 1em;
+	padding-bottom: 1em;
+	background-color: #FBEFF4;
+	float: left;
+	margin-right: .5em;
+}
+
+#SocialMedia {
+	border-radius:.5em;
+	width: 25%;
+	height: 15em;
+	padding-left: 1em;
+	padding-bottom: 1em;
+	background-color: #A6BEB5;
+	float: left;
+}
+
+</style>
+</head>
+
+<body>
+
+<section id="Title">
+	Contact Information
+</section>
+
+<section id="Email">
+	<h2>Email</h2>
+	<br>JMRutkowski16@gmail.com
+</section>
+
+<section id="SocialMedia">
+	<h2>Social Media</h2>
+	<strong>Twitter</strong>
+	<br>@jmrutkowski
+	<br>
+	<br><strong>Instagram</strong>
+	<br>@jmrutkowski16
+</section>
+
+
+
+</body>
+</html>
