@@ -30,18 +30,18 @@
 <body>
 
 <section id="Title">
-	About Jessica Rutkowski <img src="mandalasmaller.jpg"/>
+	About Jessica Rutkowski <img src="mandalasmaller.jpg" alt="headerimage"/>
 </section>
 
 <section id="NavBar">
 	<a href="index.html">Home</a>
-	<p><a href="resume.html">Resume</p></a>
-	<p><a href="portfolio.html">Portfolio</p></a>
-	<p><a href="contact.html">Contact</p></a>
+	<p><a href="resume.html">Resume</a></p>
+	<p><a href="portfolio.html">Portfolio</a></p>
+	<p><a href="contact.html">Contact</a></p>
 </section>
 
 <section id="Text">
-	<div id=headshot><img src="headshot.jpg"/>
+	<div id=headshot><img src="headshot.jpg" alt="headshot"/>
 	</div>
 	<h2>Hello</h2> I'm Jessica and this is my portfolio website.  Its purpose is to serve as a showcase for my background and accomplishments throughout the four years I spent at Saint Joseph's University. It is a collaboration of hardwork that I have done for various courses and internships, both by myself and with a group.
 	<p>I'm currenlty a senior, majoring in Communications & Digital Media, and minoring in Advertising & Promotions.

@@ -38,14 +38,14 @@
 <body>
 
 <section id="Title">
-	Portfolio <img src="mandalasmaller.jpg"/>
+	Portfolio <img src="mandalasmaller.jpg" alt="headerimage"/>
 </section>
 
 <section id="NavBar">
 	<a href="index.html">Home</a>
-	<p><a href="about.html"><p>About</p></a>
-	<p><a href="resume.html">Resume</p></a>
-	<p><a href="contact.html">Contact</p></a>
+	<p><a href="about.html">About</a></p>
+	<p><a href="resume.html">Resume</a></p>
+	<p><a href="contact.html">Contact</a></p>
 </section>
 
 <section id="CourseWork">
