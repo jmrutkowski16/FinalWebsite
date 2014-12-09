@@ -1,0 +1,29 @@
+#Title {
+	font-size: 5em;
+	font-family: 'Pacifico', cursive;
+	border-bottom: dotted;
+	margin-bottom: .5em;
+	color: #001D4A;
+}
+
+h2 {
+	font-family: 'Pacifico', cursive;
+	font-size: 2em;
+	color: #001D4A;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	margin-left: 4em;
+	color: #001D4A;
+}
+
+#NavBar {
+	border-radius:.5em;
+	width: 14%;
+	height: 14em;
+	padding: 1em;
+	margin-right: 3em;
+	background-color: #BBDADF;
+	float: right;
+}

@@ -4,42 +4,29 @@
 <title>Contact Info</title>
 <meta charset="utf-8" />
 <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="stylesheet.css">
 
 <style>
-body {
-	margin-left: 20em;
-	font-family: 'Roboto', sans-serif;
-}
-
-h2 {
-	font-family: 'Pacifico', cursive;
-}
-	
-
-#Title {
-	font-size: 4em;
-	font-family: 'Pacifico', cursive;
-}
 
 #Email {
 	border-radius:.5em;
-	width: 25%;
+	width: 35%;
 	height: 15em;
 	padding-left: 1em;
 	padding-bottom: 1em;
-	background-color: #FBEFF4;
+	background-color: #86A1C6;
 	float: left;
-	margin-right: .5em;
+	margin-right: 1em;
 }
 
 #SocialMedia {
 	border-radius:.5em;
-	width: 25%;
+	width: 35%;
 	height: 15em;
 	padding-left: 1em;
 	padding-bottom: 1em;
-	background-color: #A6BEB5;
+	background-color: #736A95;
 	float: left;
 }
 
@@ -49,7 +36,7 @@ h2 {
 <body>
 
 <section id="Title">
-	Contact Information
+	Contact Information <img src="mandalasmaller.jpg"/>
 </section>
 
 <section id="Email">
@@ -65,6 +52,14 @@ h2 {
 	<br><strong>Instagram</strong>
 	<br>@jmrutkowski16
 </section>
+
+<section id="NavBar">
+	<a href="index.html">Home</a>
+	<p><a href="about.html">About</p></a>
+	<p><a href="resume.html">Resume</p></a>
+	<p><a href="portfolio.html">Portfolio</p></a>
+</section>
+
 
 
 

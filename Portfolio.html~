@@ -1,45 +1,33 @@
 <!Doctype HTML>
 <html>
 <head>
-<title>Jessica Rutkowski's Resume</title>
+<title>Jessica Rutkowski's Portfolio</title>
 <meta charset="utf-8" />
-<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 
+<link rel="stylesheet" href="stylesheet.css">
+
 <style>
-
-#Title {
-	font-size: 4em;
-	font-family: 'Pacifico', cursive;
-}
-
-h2 {
-	font-family: 'Pacifico', cursive;
-}
-
-body {
-	font-family: 'Roboto', sans-serif;
-	margin-left: 4em;
-}
 
 #CourseWork {
 	border-radius:.5em;
 	width: 35%;
-	height: 15em;
+	height: 20em;
 	padding-left: 1em;
 	padding-bottom: 1em;
-	background-color: #FBEFF4;
+	background-color: #86A1C6;
 	float: left;
-	margin-right: .5em;
+	margin-right: 1em;
 }
 
 #Internships {
-		border-radius:.5em;
+	border-radius:.5em;
 	width: 35%;
-	height: 15em;
+	height: 20em;
 	padding-left: 1em;
 	padding-bottom: 1em;
-	background-color: #A6BEB5;
+	background-color: #736A95;
 	float: left;
 }
 
@@ -50,15 +38,38 @@ body {
 <body>
 
 <section id="Title">
-	Portfolio
+	Portfolio <img src="mandalasmaller.jpg"/>
+</section>
+
+<section id="NavBar">
+	<a href="index.html">Home</a>
+	<p><a href="about.html"><p>About</p></a>
+	<p><a href="resume.html">Resume</p></a>
+	<p><a href="contact.html">Contact</p></a>
 </section>
 
 <section id="CourseWork">
 	<h2>Course Work</h2>
+	<strong>Public Relations & Promotions</strong>
+	<br><a href="PR.Plan.pdf">PR Plan for Weaver's Way Co-op</a>
+	<br><a href="tomato.png.pdf">Creative Slogan</a>
+	<br><a href="WHYYNewsworks.pdf">Slogan used in real WHYY Advertisement</a>
+	
+	<p><strong>Social Media & Community Engagement</strong>
+	<br><a href="https://www.kickstarter.com/projects/993112740/birchrun-hills-farm-raise-a-cheese-cave?ref=nav_search">Birchrun Hills Farm Kickstarter</a></p>
 </section>
 
 <section id="Internships">
 	<h2>Internship Work</h2>
+	<strong>GoggleWorks Center for the Arts</strong>
+	<br><a href="artsfestpr.pdf">Arts festival READING Press Release</a>
+	<br><a href="studioartistpr.pdf">Studio Artist Press Release</a>
+	<br>
+	<br><strong>Green Philly Blog</strong>
+	<br><a href="http://www.greenphillyblog.com/philly/schuylkill-banks-boardwalk/">Skeptical About the Scuylkill Banks Boardwalk? Don't Be</a>
+	<br><a href="http://www.greenphillyblog.com/food/sustainable-thanksgiving/">One-Stop Thanksgiving Stop: Reading Terminal Market Style</a>
+	<br><a href="http://www.greenphillyblog.com/news/birchrun-hills-farm-kickstarter/">Support Local Cheese With Birchrun Hills Farm Kickstarter</a>
+	
 </section>
 
 </body>

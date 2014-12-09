@@ -3,56 +3,48 @@
 <head>
 <title>Jessica Rutkowski's Resume</title>
 <meta charset="utf-8" />
-<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 
+<link rel="stylesheet" href="stylesheet.css">
 
 <style>
 
-body {
-	margin-left: 5em;
-	font-family: 'Roboto', sans-serif;
-}
-
-#Title {
-	font-family: 'Pacifico', cursive;
-	font-size: 5em;
-}
-
-h2 {
-	font-family: 'Pacifico', cursive;
-}
 
 #Education {
 	border-radius:.5em;
 	width: 55%;
-	padding: 1em;
-	margin-bottom: .25em;
-	background-color: #FBEFF4;
+	padding: .5em;
+	padding-left: 1.5em;
+	margin-bottom: .75em;
+	background-color: #86A1C6;
 }
 
 #RelevantExperience {
 	border-radius:.5em;
 	width: 55%;
-	padding: 1em;
-	margin-bottom: .25em;
-	background-color: #A6BEB5;
+	padding: .5em;
+	padding-left: 1.5em;
+	margin-bottom: .75em;
+	background-color: #736A95;
 }
 
 #Skills {
 	border-radius:.5em;
 	width: 55%;
-	padding: 1em;
-	margin-bottom: .25em;
-	background-color: #FBEFF4;
+	padding: .5em;
+	padding-left: 1.5em;
+	margin-bottom: .75em;
+	background-color: #86A1C6;
 }
 
 #ProfessionalOrganizations {
 	border-radius:.5em;
 	width: 55%;
-	padding: 1em;
-	margin-bottom: .25em;
-	background-color: #A6BEB5;
+	padding: .5em;
+	padding-left: 1.5em;
+	margin-bottom: 2em;
+	background-color: #736A95;
 }
 
 
@@ -62,7 +54,14 @@ h2 {
 <body>
 
 <section id="Title">
-	Resume
+	Resume <img src="mandalasmaller.jpg"/>
+</section>
+
+<section id="NavBar">
+	<a href="index.html">Home</a>
+	<a href="about.html"><p>About</p></a>
+	<a href="portfolio.html"><p>Portfolio</p></a>
+	<a href="contact.html"><p>Contact</p></a>
 </section>
 
 <section id="Education">
@@ -77,13 +76,13 @@ h2 {
 <section id="RelevantExperience">
 	<h2>Relevant Experience</h2>
 	<p><strong>Friends of Sellers Hall, Non-profit, Upper Darby, PA</strong>
-	<br>Work-Study Job | 2011-Present</p>
+	<br>Work-Study Job | 2011 - Present</p>
 	<ul>
 		<li>Created a PowerPoint presentation that is used to recruit
 		<br>members and donators to save Sellers Hall.</li>
 		<li>Wrote a mission statement and a narrative describing the
 		<br>historical significance of the building</li>
-		<li>Researched grants and helped writed applications</li>
+		<li>Researched grants and helped write applications</li>
 		<li>Assisted with website updates and design</li>
 	</ul>
 	<p><strong>GoggleWorks Center for the Arts, Reading, PA</strong>
